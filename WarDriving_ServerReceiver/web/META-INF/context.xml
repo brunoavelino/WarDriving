@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/WarDriving_ServerReceiver">
+  <Resource auth="Container" driverClassName="org.postgresql.Driver" maxIdle="10" maxTotal="25" name="jdbc/confluence" password="qwerty4" type="javax.sql.DataSource" url="jdbc:postgresql://localhost:5432/dbwar" username="postgres" validationQuery="select 1"/>
+</Context>
